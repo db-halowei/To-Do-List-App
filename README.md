@@ -287,8 +287,7 @@ Through this project, I gained practical experience in:
 
 ## 👨‍💻 Author
 
-**[Desmond Beh]**
-
+**Desmond Beh**
 A student exploring web development and building practical projects to strengthen front-end programming skills.
 
 ---

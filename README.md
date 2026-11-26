@@ -120,7 +120,7 @@ To-Do-List-App/
 ├── index.html          # Main HTML structure
 ├── style.css           # Application styling
 ├── script.js           # Application functionality
-├── study-background.jpg # Background image
+├── background.jpg      # Background image
 │
 └── README.md           # Project documentation
 ```
@@ -287,7 +287,7 @@ Through this project, I gained practical experience in:
 
 ## 👨‍💻 Author
 
-**Desmond Beh**
+**[Desmond Beh]**
 
 A student exploring web development and building practical projects to strengthen front-end programming skills.
 
